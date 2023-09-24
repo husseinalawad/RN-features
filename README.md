@@ -1,0 +1,2 @@
+# RN-features
+Locations,camera
